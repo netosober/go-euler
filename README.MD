@@ -1,3 +1,4 @@
-* Project Euler solutions in go
+Project Euler solutions in Go
+-----------------------------
 
 Solutions to https://projecteuler.net in Go
